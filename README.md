@@ -1,5 +1,6 @@
-<img width="929" height="471" alt="Screenshot 2026-06-23 at 00 23 45" src="https://github.com/user-attachments/assets/0e311682-c804-4af7-975c-adc21f7f9827" />
 # Renewable Energy Consumption Dashboard
+<img width="929" height="471" alt="Screenshot 2026-06-23 at 00 23 45" src="https://github.com/user-attachments/assets/0e311682-c804-4af7-975c-adc21f7f9827" />
+
 
 > Interactive R dashboard analyzing global renewable energy trends 
 > across countries and years — built with R, ggplot2, and Shiny-ready 
