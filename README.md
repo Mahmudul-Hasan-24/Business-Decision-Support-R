@@ -1,3 +1,4 @@
+<img width="929" height="471" alt="Screenshot 2026-06-23 at 00 23 45" src="https://github.com/user-attachments/assets/0e311682-c804-4af7-975c-adc21f7f9827" />
 # Renewable Energy Consumption Dashboard
 
 > Interactive R dashboard analyzing global renewable energy trends 
